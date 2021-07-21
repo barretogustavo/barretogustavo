@@ -7,10 +7,10 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavo-barreto-a4008b65/" target="_blank">
-<img align="center" alt="gustavobarreto-linkedin" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" style="max-width:100%;">
+<img align="center" alt="gustavobarreto-linkedin" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/gustavobarreto.dev/" target="_blank">
-<img align="center" alt="gustavobarreto-instagram" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" style="max-width:100%;">
+<img align="center" alt="gustavobarreto-instagram" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" style="max-width:100%;">
 </a>
 
 ## My Skills
