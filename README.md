@@ -27,8 +27,10 @@
 ## My Another Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="photoshop" width="40" height="40" style="max-width:100%;"></img>
 
+
+![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
 <!--
-**diegoshakan/diegoshakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**barretogustavo/barretogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
