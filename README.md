@@ -12,9 +12,6 @@
 <a href="https://www.instagram.com/gustavobarreto.dev/" target="_blank">
 <img align="center" alt="gustavobarreto-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
-<a href="https://www.facebook.com/gustavo.barreto.524" target="_blank">
-<img align="center" alt="gustavobarreto-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
-</a>
 
 ## My Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="reactjs" width="40" height="40" style="max-width:100%;"></img>
