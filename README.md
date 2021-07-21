@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## I'm Gustavo Barreto
 - I live in :brazil:, Rio de Janeiro :sunglasses::sunrise:
-- I am Computer Science student 💻
+- I am a Computer Science student 💻
 - I am Front-end Developer Trainee :computer:
-- I have been learnig more about React :sparkling_heart:
+- I have been learnig more about React 🚀
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavo-barreto-a4008b65/" target="_blank">
@@ -22,7 +22,7 @@
 
 
 ## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodejs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40" height="40" style="max-width:100%;"></img>
 
 ## My Another Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="photoshop" width="40" height="40" style="max-width:100%;"></img>
