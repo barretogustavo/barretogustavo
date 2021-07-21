@@ -27,9 +27,8 @@
 ## My Another Skills
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="photoshop" width="40" height="40" style="max-width:100%;"></img>
 
-<div>
 ![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
-<div>
+
 
 
 <!--
