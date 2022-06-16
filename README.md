@@ -1,37 +1,72 @@
-### Hi there 👋
-### My Portfolio link
+<h1 align="left">Hi there, I'm Gustavo Barreto 👋</h1>
 
-<a href="https://gustavobarreto.herokuapp.com/" target="_blank"> Gustavo Barreto - Portfólio </a>
-## I'm Gustavo Barreto
-- I live in :brazil:, Rio de Janeiro :sunglasses::sunrise:
-- I am a Computer Science student 💻
-- I am Front-end Developer :computer:
-- I have been learnig more about React, Typescript and tests 🚀
+###
+<h3 align="left">I have market experience working as a team, I am self-taught, with great interpersonal skills, assertive communication, and ease of learning.</h3>
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/gustavo-barreto-a4008b65/" target="_blank">
-<img align="center" alt="gustavobarreto-linkedin" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/gustavobarreto.dev/" target="_blank">
-<img align="center" alt="gustavobarreto-instagram" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" style="max-width:100%;">
-</a>
+###
+<p align="left">I live in Brazil, Rio de Janeiro 😎🌅<br>I am a Computer Science student 💻<br>I am Front-end Developer 💻 🚀</p>
 
-## My Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="reactjs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+###
+<p align="left"></p>
 
+###
+<h3 align="left">Connect with me:</h3>
 
-## Learning
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png" alt="cypress" width="40" height="40" style="max-width:100%;"></img>
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavobarretodev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-## My Another Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="photoshop" width="40" height="40" style="max-width:100%;"></img>
+###
+<p align="left"></p>
+
+###
+<h3 align="left">Helping over 11,000 people study programming through Instagram and Discord:</h3>
+
+###
+<div align="left">
+  <a href="https://www.instagram.com/gustavobarreto.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/invite/bctvYTyCVS" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+<p align="left"></p>
+
+###
+<h3 align="left">Programming languages ​​that I have experience with:</h3>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png" alt="cypress" width="40" height="40" style="max-width:100%;" />
+</div>
+
+###
+<p align="left"></p>
+
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&custom_title=Minhas estatísticas do GitHub&username=barretogustavo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=barretogustavo" height="152" alt="languages graph"  />
+</div>
+
+###
+<img href="https://raw.githubusercontent.com/barretogustavo/barretogustavo/blob/output/snake.svg" alt="Snake animation" />
+
 
 ![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
 
