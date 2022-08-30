@@ -23,7 +23,7 @@
 <p align="left"></p>
 
 ###
-<h3 align="left">Helping over 11,000 people study programming through Instagram and Discord:</h3>
+<h3 align="left">Helping over 15,000 people study programming through Instagram and Discord:</h3>
 
 ###
 <div align="left">
