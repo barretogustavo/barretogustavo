@@ -57,9 +57,6 @@
 ###
 <p align="left"></p>
 
-###
-
-![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
 
 
 
