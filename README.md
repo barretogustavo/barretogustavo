@@ -4,7 +4,7 @@
 <h3 align="left">I have market experience working as a team, I am self-taught, with great interpersonal skills, assertive communication, and ease of learning.</h3>
 
 ###
-<p align="left">I live in Brazil, Rio de Janeiro 😎🌅<br>I am a Computer Science student 💻<br>I am Front-end Developer 💻 🚀</p>
+<p align="left">I live in Brazil, Rio de Janeiro 😎🌅<br>I am a Computer Science student 💻<br>I am Fullstack Developer 💻 🚀</p>
 
 ###
 <p align="left"></p>
